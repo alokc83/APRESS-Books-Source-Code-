@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* RandomNumber */ = {
+		activeExec = 0;
+		executables = (
+			82DF3AFC11DDCB4C0087E5B9 /* RandomNumber */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* RandomNumberViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1304, 868}}";
+			sepNavSelRange = "{288, 0}";
+			sepNavVisRange = "{0, 438}";
+			sepNavWindowFrame = "{{15, 20}, {1642, 1003}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* RandomNumberViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1304, 903}}";
+			sepNavSelRange = "{259, 0}";
+			sepNavVisRange = "{3, 846}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 82DF3AFC11DDCB4C0087E5B9 /* RandomNumber */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* RandomNumber */;
+		breakpoints = (
+		);
+		codeSenseManager = 82DF3B0111DDCB6B0087E5B9 /* Code sense */;
+		executables = (
+			82DF3AFC11DDCB4C0087E5B9 /* RandomNumber */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1126,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 299748172;
+			PBXWorkspaceStateSaveDate = 299748172;
+		};
+		perUserProjectItems = {
+			82DF3B6111E0EDDE0087E5B9 /* PBXTextBookmark */ = 82DF3B6111E0EDDE0087E5B9 /* PBXTextBookmark */;
+			82DF3B6211E0EDDE0087E5B9 /* PBXTextBookmark */ = 82DF3B6211E0EDDE0087E5B9 /* PBXTextBookmark */;
+			82DF3B6F11E104780087E5B9 /* PBXTextBookmark */ = 82DF3B6F11E104780087E5B9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82DF3B0011DDCB6B0087E5B9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	82DF3AFC11DDCB4C0087E5B9 /* RandomNumber */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RandomNumber;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	82DF3B0011DDCB6B0087E5B9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82DF3B0111DDCB6B0087E5B9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	82DF3B6111E0EDDE0087E5B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* RandomNumberViewController.m */;
+		name = "RandomNumberViewController.m: 13";
+		rLen = 0;
+		rLoc = 259;
+		rType = 0;
+		vrLen = 846;
+		vrLoc = 3;
+	};
+	82DF3B6211E0EDDE0087E5B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RandomNumberViewController.h */;
+		name = "RandomNumberViewController.h: 17";
+		rLen = 61;
+		rLoc = 291;
+		rType = 0;
+		vrLen = 440;
+		vrLoc = 0;
+	};
+	82DF3B6F11E104780087E5B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* RandomNumberViewController.h */;
+		name = "RandomNumberViewController.h: 14";
+		rLen = 0;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 438;
+		vrLoc = 0;
+	};
+}
